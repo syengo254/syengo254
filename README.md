@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @syengo254
-- 👀 I’m interested in c#, JS and open source projects
+- 👀 I’m interested in PHP/Laravel/CodeIgniter, c#, JS and open source projects
 - 🌱 I’m currently learning Vue JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me david.syengo019@gmail.com
