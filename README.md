@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @syengo254
 - 👀 I’m interested in PHP/Laravel/CodeIgniter, c#, JS and open source projects
-- 🌱 I’m currently learning Vue JS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I also work with React and Vue
 - 📫 How to reach me david.syengo019@gmail.com
 
 <!---
