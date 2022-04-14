@@ -6,6 +6,9 @@
 - :electron: My favourite stack currently is MongoDB, NodeJS and Vue and second comes MySQL/Laravel & Vue. I like React too.
 - 📫 How to reach me david.syengo019@gmail.com
 
+StandWithUkraine:
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+
 <!---
 syengo254/syengo254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
